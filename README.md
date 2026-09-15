@@ -30,6 +30,12 @@ Este projeto automatiza a auditoria de arquivos de vistoria técnica dispostos n
 
 ---
 
+## 📋 Pré-requisitos
+- ** Ter o Python 3.8+ instalado.
+- ** Acesso à unidade de rede configurada (Mapeamento padrão: M:\001 - Vistorias de Campo).
+
+---
+
 ## 📂 Estrutura do Repositório
 
 ```text
@@ -40,4 +46,6 @@ verificacao-boletins-vistoria/
 │
 ├── .gitignore                   # Arquivos ignorados pelo controle de versão
 ├── README.md                    # Documentação do projeto
-└── requirements.txt             # Dependências da aplicação
+└── requirements.txt             # Dependências da aplicação 
+
+
