@@ -31,8 +31,8 @@ Este projeto automatiza a auditoria de arquivos de vistoria técnica dispostos n
 ---
 
 ## 📋 Pré-requisitos
-- ** Ter o Python 3.8+ instalado.
-- ** Acesso à unidade de rede configurada (Mapeamento padrão: M:\001 - Vistorias de Campo).
+- **Ter o Python 3.8+ instalado.
+- **Acesso à unidade de rede configurada (Mapeamento padrão: M:\001 - Vistorias de Campo).
 
 ---
 
